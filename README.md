@@ -23,3 +23,8 @@ This project presents an HR Analytics Dashboard built using Power BI to provide 
 
 ## Dashboard
 <img width="1278" height="711" alt="final" src="https://github.com/user-attachments/assets/5c2f9ae0-c3b9-46cc-a2d9-c7cd73f7bda1" />
+
+## Outcome
+-Identified departments and education fields with the highest attrition.
+-Showed patterns of attrition across age groups and gender.
+-Highlighted job roles with high/low satisfaction to guide HR interventions.
