@@ -20,3 +20,6 @@ This project presents an HR Analytics Dashboard built using Power BI to provide 
 -Data Cleaning & Transformation (Power Query)
 -Data Modeling (Relationships, DAX Measures)
 -Interactive Visuals (Bar, Pie, Donut, Card, Table Charts)
+
+## Dashboard
+<img width="1278" height="711" alt="final" src="https://github.com/user-attachments/assets/5c2f9ae0-c3b9-46cc-a2d9-c7cd73f7bda1" />
