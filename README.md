@@ -4,3 +4,19 @@ This project presents an HR Analytics Dashboard built using Power BI to provide 
 
 ## Dataset
 - <a href="https://github.com/Saranya-S03/First-PowerBI-Dashboard/blob/main/HR%20Data.xlsx">Dataset
+
+## Key Insights Displayed
+-Total Employees, Attrition, Attrition Rate, Active Employees, Average Age
+-Attrition by Department, Education Field, and Age Group
+-Employee Distribution by Age Group & Gender
+-Job Satisfaction Ratings by Job Role
+-Attrition Rates by Gender across Age Bands
+
+- Dashboard Interaction <a href="https://github.com/Saranya-S03/First-PowerBI-Dashboard/blob/main/final.png">View Dashboard</a>
+
+## Process
+-Verify data for any missing values and anomalies, and sort out the same.
+-Made sure data is consistent and clean with respect to data type, data format and values used.
+-Data Cleaning & Transformation (Power Query)
+-Data Modeling (Relationships, DAX Measures)
+-Interactive Visuals (Bar, Pie, Donut, Card, Table Charts)
